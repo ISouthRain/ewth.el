@@ -32,7 +32,7 @@ Reference URL: https://github.com/chubin/wttr.in?tab=readme-ov-file#one-line-out
   :type 'string
   :group 'ewth)
 
-(defcustom ewth-update-interval 300
+(defcustom ewth-update-interval 1800
   "Interval in seconds between weather updates."
   :type 'integer
   :group 'ewth)
