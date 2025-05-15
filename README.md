@@ -47,7 +47,7 @@ It leverages the `wttr.in` service, which provides concise weather reports, allo
 
 ## Customization Options
 
-*   `ewth-url`: Specifies the `wttr.in` URL.  Affects the displayed city, format, etc.
+*   `ewth-url`: Specifies the `wttr.in` URL.  Affects the displayed city, format, etc, about more format: https://github.com/chubin/wttr.in?tab=readme-ov-file#one-line-output
 *   `ewth-update-interval`: Specifies the interval (in seconds) at which the weather information is updated.
 
 ## Important Notes

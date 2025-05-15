@@ -42,7 +42,7 @@
 
 ## 自定义选项
 
-*   `ewth-url`：指定 `wttr.in` 的 URL。  影响显示的城市，格式等
+*   `ewth-url`：指定 `wttr.in` 的 URL。  影响显示的城市，格式等, 关于更多格式: https://github.com/chubin/wttr.in?tab=readme-ov-file#one-line-output
 *   `ewth-update-interval`：指定天气信息更新的间隔（秒）。
 
 ## 注意事项
