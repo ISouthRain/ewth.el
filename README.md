@@ -2,11 +2,15 @@
 `ewth.el` 是一个简单的 Emacs 小工具，用于在 Emacs 的 modeline 中显示天气信息。  
 它利用了 `wttr.in` 这个提供简洁天气信息的服务，让你无需离开 Emacs 就能随时了解天气状况。  
 
-## 为什么不用 display-wttrn
+[预览](./modeline.png)
+
+## 为什么不用 display-wttrn.el
+[display-wttrn](https://github.com/josegpt/display-wttr)
+
 - 更新数据时莫名卡住 Emacs
 
 ## 主要特性
-*   **更新数据不卡住 Emacs**
+*   **异步更新数据不卡住 Emacs**
 
 *   **模式行显示：** 天气信息直接显示在 Emacs 窗口底部的模式行中，不会干扰你的编辑工作。
 
