@@ -36,7 +36,7 @@ It leverages the `wttr.in` service, which provides concise weather reports, allo
   :load-path "path/to/ewth"
   :defer 2
   :config
-  (setq ewth-url "http://wttr.in/纽约?format=2&M")
+  (setq ewth-url "http://wttr.in/NewYork?format=2&M")
   (ewth-mode)
   )
 ```
