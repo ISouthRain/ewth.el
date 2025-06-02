@@ -1,5 +1,8 @@
 ;;; ewth-mode.el --- Display weather info in mode-line -*- lexical-binding: t; -*-
 
+;; Copyright (C) 2025 Free Software Foundation, Inc.
+;; License: GPL-3.0-or-later
+
 ;; Author: ISouthRain
 ;; Version: 0.1
 ;; Package-Requires: ((emacs "26.1") (request "0.3.0"))
