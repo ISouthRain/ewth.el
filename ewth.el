@@ -22,7 +22,8 @@
 
 ;;; Code:
 
-(require 'request)
+(unless (require 'request nil 'noerror)
+  (error "[ewth.el] package `request` not found. Please install it (e.g. M-x package-install RET request RET)"))
 
 (defgroup ewth nil
   "Weather display in mode-line."
